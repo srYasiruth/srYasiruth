@@ -49,6 +49,10 @@ Final-year research project focused on detecting disaster-related social media p
 - Location extraction from social media text
 - Map-based alert dashboard for disaster monitoring
 
+**Architecture overview:**
+
+![Real-Time Multimodal Disaster Detection Architecture](assets/disaster-detection-architecture.png)
+
 **Focus areas:** Machine Learning, NLP, Computer Vision, Multimodal AI, Data Science
 
 ### Sinhala + English Local RAG Document QA System
