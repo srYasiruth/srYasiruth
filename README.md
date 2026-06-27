@@ -28,44 +28,26 @@ I enjoy working across the full data workflow, from data preprocessing and explo
 
 ## Tech Stack
 
-**Programming & Data:** Python, SQL, Pandas, NumPy, Excel  
-**Machine Learning:** Scikit-learn, Machine Learning, Data Preprocessing, EDA, Model Evaluation  
-**AI Areas:** NLP, Computer Vision basics, Multimodal AI, RAG Systems  
-**Visualization:** Matplotlib  
-**Backend & Web:** Flask, FastAPI, React  
-**Databases:** MySQL, SQLite, ChromaDB  
-**Tools:** Git, GitHub, Ollama, SentenceTransformers  
-**Professional Skills:** Research Writing, Technical Documentation
+<div align="center">
 
-## Featured Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Real-Time Multimodal Disaster Detection Using Social Media
+</div>
 
-Final-year research project focused on detecting disaster-related social media posts using both text and image data.
-
-**Key areas:**
-- Informative and non-informative post classification
-- Disaster type classification
-- Location extraction from social media text
-- Map-based alert dashboard for disaster monitoring
-
-**Architecture overview:**
-
-![Real-Time Multimodal Disaster Detection Architecture](assets/disaster-detection-architecture.png)
-
-**Focus areas:** Machine Learning, NLP, Computer Vision, Multimodal AI, Data Science
-
-### Sinhala + English Local RAG Document QA System
-
-A fully local document question-answering system for Sinhala and English documents.
-
-**Key features:**
-- Upload PDF, DOCX, or TXT documents
-- Ask questions in Sinhala or English
-- Retrieve relevant document context locally
-- Generate answers in the same language as the question
-
-**Technologies:** FastAPI, React, SQLite, ChromaDB, SentenceTransformers, Ollama/local LLM
+**Core areas:** Machine Learning, Data Preprocessing, EDA, Model Evaluation, NLP, Computer Vision basics, RAG Systems, Research Writing, Technical Documentation
 
 ## Research Interests
 
